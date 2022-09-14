@@ -1,0 +1,19 @@
+{
+  "name": "carousell-backend-bootcamp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-oauth2-jwt-bearer": "^1.1.0",
+    "pg": "^8.7.3",
+    "sequelize": "^6.20.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "sequelize-cli": "^6.4.1"
+  }
+}
